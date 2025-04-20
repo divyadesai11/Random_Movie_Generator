@@ -1,1 +1,2 @@
-# Random_Movie_Generator
+Random Movie Generator is a Java-basedGraphical User Interface(GUI) application that recommends movies based on user preferences for genre, decade, and language. It features a clean, user-friendly interface and uses Java’s HttpClient to fetch data from the IMDb API. The system displays the top ten matching movies with details like movie-title, rating, duration, description, director, actors, and a poster. This project demonstrates API integration, object-oriented programming, JSON Parsing, effective use of GUI design in Java.
+
